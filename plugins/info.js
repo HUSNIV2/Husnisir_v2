@@ -21,20 +21,20 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + Config.PLK +`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption:Husni_v2 + Husni_v2 + Husni_v2 *BOT CREATED BY* husni + Config.PLK +`
     
-    ----- ` + Config.BOTSK + ` -----
+    ----- ` + Husni_v2 + ` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
 │❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
-│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : https:www.instagram.com/_husni__jr_ + Config.SLINK + `
 │❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
-               ` + Config.BOTSK + `
+               ` + HUSNI_V2 + `
     
-    ⚡ ` + Config.AFN + ` ⚡
+    ⚡ ` +husni_v2 + ` ⚡
 `}) 
 
 }));
