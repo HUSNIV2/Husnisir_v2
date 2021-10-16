@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/HUSNIV2">HUSNIV2</a> to make it p
 Click to Join bot group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/GD9x9u0NLEPI66B1MFzzkj" target="blank"><img align="center" src="Tintumon.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -108,12 +108,12 @@ Absolutely, Husnisir_v2 executives do not accept responsibility.
 By establishing the Husnisir_v2, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
+## Developer
   <div align="center">
     
-  [![HUSNIV2](https://github.com/HUSNIV2.png?size=100)](https://github.com/HUSNIV2) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![HUSNIV2](https://github.com/HUSNIV2.png?size=100)](https://github.com/HUSNIV2) | 
 ----|----|----|----
-[HUSNIV2](https://github.com/HUSNIV2) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[HUSNIV2](https://github.com/HUSNIV2)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
