@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/HUSNIV2">HUSNIV2</a> to make it p
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/HUSNIV2_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_husni__jr_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
